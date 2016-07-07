@@ -13,7 +13,10 @@ Pre-requisites before executing programs:
 7.Now create a new database called vector. Create two tables country_vector and country_cluster.
 8.country_vector has five columns country(varchar),health(INT),education(INT),public-cash(INT) and public-tax(INT).
 9.country_cluster has two columns country(varchar) and cluster(INT). This holds the cluster number of each countries.
-10. Make sure that you have set up your class path and established JRE setup properly in your environment.
+                                                
+                                                (or)
+ Run the SQL scripts file under the executable/SQl script folder.
+
 
 
 Steps to execute programs
