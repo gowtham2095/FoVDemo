@@ -70,3 +70,5 @@ Steps to execute programs
 24. Now this stores the clustered countries back into the database vector in the table country_cluster.
 
 25. Now this table can be queried for countries under same cluster.
+
+26. Ignore the 3.vector folder.
