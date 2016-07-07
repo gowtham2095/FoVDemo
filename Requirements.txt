@@ -1,0 +1,5 @@
+1.Java compiler.
+2.JDK and JRE packages.
+3.MySQL connector.
+4.Python compiler.
+5.You need panda, numpy and scikit packages. If not, download.
